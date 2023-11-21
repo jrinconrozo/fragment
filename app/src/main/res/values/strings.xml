@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <string name="txt1">Ejemplo uso fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fr1">fragment rojo</string>
+    <string name="fr2">fragment Verde</string>
+</resources>
